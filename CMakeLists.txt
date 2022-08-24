@@ -18,6 +18,7 @@ install(PROGRAMS
     ${EXAMPLES_DIR}/ex_pose_goal.py
     ${EXAMPLES_DIR}/working_baseline_ur10e.py
     ${EXAMPLES_DIR}/pymoveit_sandbox_2.py
+    ${EXAMPLES_DIR}/pymoveit_sandbox_3.py
     ${EXAMPLES_DIR}/ex_servo.py
     DESTINATION lib/${PROJECT_NAME}
 )
